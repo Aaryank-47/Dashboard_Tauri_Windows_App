@@ -1,3 +1,4 @@
+import React from "react";
 import { useEffect, useState, useMemo } from "react";
 import { toast } from "react-hot-toast";
 import { Player } from '@lottiefiles/react-lottie-player';

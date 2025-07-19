@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "tauri": "tauri"
   },
   "dependencies": {
     "@emotion/react": "^11.11.3",
@@ -36,6 +37,7 @@
     "recharts": "^2.12.0"
   },
   "devDependencies": {
+    "@tauri-apps/cli": "^2.6.2",
     "@types/react": "^18.2.55",
     "@types/react-dom": "^18.2.19",
     "@vitejs/plugin-react": "^4.2.1",

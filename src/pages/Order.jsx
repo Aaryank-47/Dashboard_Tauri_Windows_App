@@ -1,3 +1,4 @@
+import React from "react";
 import { useState, useEffect } from "react";
 import { toast } from "react-hot-toast";
 import { FiMoon, FiSun, FiCalendar, FiDollarSign, FiShoppingBag } from "react-icons/fi";
